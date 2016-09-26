@@ -6,13 +6,15 @@
 		"name": "Wenfang Han",
 		"email": "eehanwenfang@gmail.com"
 	},
-	"version": "1.0",
+	"version": "1.0.0",
 	"main": "qps.js",
 	"keywords": [
 		"qps",
 		"benchmark"
 	],
 	"dependencies":{
+	},
+	"devDependencies":{
 	},
 	"license": "MIT"
 }
