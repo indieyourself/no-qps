@@ -23,7 +23,7 @@ QPS.prototype.count = function() {
 		console.log(
 			`requestNum: ${this.requestNum}\n
 			   startTime: ${this.startTime} endTime: ${this.endTime}\n
-			   QPS: ${requestNum*1000/duration}\n
+			   QPS: ${this.requestNum*1000/this.duration}\n
 			`);
 	}
 }
