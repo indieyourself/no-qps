@@ -20,7 +20,9 @@ QPS.prototype.count = function() {
 	if (this.counter == this.requestNum) {
 		this.endTime = Date.now();
 		this.duration = this.endTime - this.startTime;
-		console.log(`requestNum: ${this.requestNum}\nstartTime: ${this.startTime} endTime: ${this.endTime}\nQPS: ${this.requestNum*1000/this.duration}\n`);
+		console.log(`requestNum: ${this.requestNum}\n\
+			startTime: ${this.startTime} endTime: ${this.endTime}\n\
+			QPS: ${this.requestNum*1000/this.duration}\n`);
 	}
 }
 
