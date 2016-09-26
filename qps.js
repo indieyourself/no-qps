@@ -1,3 +1,5 @@
+'use strict'
+
 function QPS( requestNum ) {
 	this.requestNum = requestNum;
 	this.counter = 0;
