@@ -3,7 +3,7 @@
 	"description": "A QPS counter for benchmark",
 	"homepage": "https://github.com/indieyourself/no-qps",
 	"author": {
-		"name": "Wenfang Han",
+		"name": "hanwf",
 		"email": "eehanwenfang@gmail.com"
 	},
 	"version": "1.0.0",
