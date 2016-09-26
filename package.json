@@ -1,27 +1,25 @@
 {
-	"name": "no-qps",
-	"description": "A QPS counter for benchmark",
-	"homepage": "https://github.com/indieyourself/no-qps",
-	"author": {
-		"name": "hanwf",
-		"email": "eehanwenfang@gmail.com"
-	},
-	"version": "1.0.0",
-	"main": "qps.js",
-  	"repository": {
-    		"type": "git",
-    		"url": "https://github.com/indieyourself/no-qps"
-  	},
-  	"bugs": {
-    		"url": "https://github.com/indieyourself/no-qps/issues"
-  	},
-	"keywords": [
-		"qps",
-		"benchmark"
-	],
-	"dependencies":{
-	},
-	"devDependencies":{
-	},
-	"license": "MIT"
+  "name": "no-qps",
+  "description": "A QPS counter for benchmark",
+  "homepage": "https://github.com/indieyourself/no-qps",
+  "author": {
+    "name": "hanwf",
+    "email": "eehanwenfang@gmail.com"
+  },
+  "version": "1.0.1",
+  "main": "qps.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indieyourself/no-qps"
+  },
+  "bugs": {
+    "url": "https://github.com/indieyourself/no-qps/issues"
+  },
+  "keywords": [
+    "qps",
+    "benchmark"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT"
 }
