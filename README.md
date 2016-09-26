@@ -1,2 +1,3 @@
 # no-qps
- server-side qps statistics module
+A QPS counter for benchmark.
+

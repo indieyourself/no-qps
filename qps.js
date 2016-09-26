@@ -25,5 +25,7 @@ QPS.prototype.count = function() {
 			   startTime: ${this.startTime} endTime: ${this.endTime}\n
 			   QPS: ${requestNum*1000/duration}\n
 			`);
-	};
+	}
 }
+
+module.exports = QPS;
