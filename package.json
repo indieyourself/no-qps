@@ -1,0 +1,17 @@
+{
+	"name": "no-qps",
+	"description": "A QPS counter for benchmark",
+	"homepage": "https://github.com/indieyourself/no-qps",
+	"author": {
+		"name": "Wenfang Han",
+		"email": "eehanwenfang@gmail.com"
+	},
+	"version": "1.0",
+	"main": "qps.js",
+	"keywords": [
+		"qps",
+		"benchmark"
+	],
+	"dependencies":{
+	}
+}
