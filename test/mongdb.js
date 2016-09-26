@@ -1,7 +1,7 @@
 'use strict'
 
 const express = require('express');
-const qps = require('./qps');
+const qps = require('no-qps');
 
 const port = 8087;
 const app = express();

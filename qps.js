@@ -17,7 +17,7 @@ QPS.prototype.start = function() {
 QPS.prototype.count = function() {
 	++this.counter;
 
-	if (this.counter == this.requestNum) {
+	if (this.counter === this.requestNum) {
 		this.endTime = Date.now();
 		this.duration = this.endTime - this.startTime;
 		console.log(`
