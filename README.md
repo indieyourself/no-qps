@@ -3,7 +3,7 @@ A QPS counter for benchmark.
 
 ##Install
 ```bash
-$ npm install qps
+$ npm install no-qps
 ```
 
 ##Usage
